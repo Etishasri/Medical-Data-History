@@ -1,4 +1,4 @@
-#`Medical Data History Queries`
+# `Medical Data History Queries`
 
 ## Alter Table
 Change the column name `attending_doctor_id` to `doctor_id` in the `admissions` table to merge it with the `doctors` table.
